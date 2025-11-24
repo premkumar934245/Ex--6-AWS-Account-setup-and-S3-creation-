@@ -1,7 +1,7 @@
 # Ex--2-AWS-Account-setup-and-S3-creation-
 
-### NAME: SHIVRAJ R
-### REG NO: 212223110051
+### NAME: PREM KUMAR S
+### REG NO: 212223240125
 
 # Introduction
 
